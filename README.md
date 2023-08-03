@@ -21,7 +21,7 @@ The package makes use of SimpleITK and pydicom.
 
 run 
 ```bash
-    pip install git+http://git.procancer-i.eu/ChKalantzopoulos/aipassport.git
+    pip install git+http://git.procancer-i.eu/ChKalantzopoulos/ProCanLoad.git
 ```
 
 # Demonstration
